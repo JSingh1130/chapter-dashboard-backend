@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Algebra",
+    "class": "10",
+    "subject": "Math",
+    "unit": "Unit 1",
+    "status": "completed",
+    "isWeak": false
+  },
+  {
+    "name": "Geometry",
+    "class": "10",
+    "subject": "Math",
+    "unit": "Unit 2",
+    "status": "pending",
+    "isWeak": true
+  }
+]
