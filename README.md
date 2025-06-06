@@ -9,8 +9,8 @@ This project was built as part of the MathonGo backend developer task.
 
 🌐 **API Base URL:**
 `https://chapter-dashboard-backend.onrender.com`
-*Root response: 📘 Chapter Dashboard API is running!
-*Use /api/v1/chapters for GET and POST
+*Root response: 📘 Chapter Dashboard API is running!*
+*Use /api/v1/chapters for GET and POST*
 
 
 📬 **Postman Collection:**
