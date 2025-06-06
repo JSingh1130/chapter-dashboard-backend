@@ -129,9 +129,8 @@ Use the `.env.example` file as a reference.
 ### 📬 Contact
 
 **Jatinjot Singh**
-📧 \[[your-email@example.com](mailto:jatinjot28@example.com)]
-🔗 GitHub: [github.com/YourUsername](https://github.com/JSingh1130)
+📧 \[[jatinjot28@example.com](mailto:jatinjot28@example.com)]
+🔗 GitHub: [github.com/JSingh1130](https://github.com/JSingh1130)
 
 ---
 
-Let me know if you want this copied into a `README.md` file in your repo or want to tweak anything before submission!
